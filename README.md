@@ -1,1 +1,1 @@
-"# squid-v4-subscriber" 
+# squid-v4-subscriber
